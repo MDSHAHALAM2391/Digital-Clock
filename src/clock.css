@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+.parent-div{
+    text-align: center;
+    margin-top: 15%;
+    color: chartreuse;
+    font-size: 66px;
+    background-color: rgb(17, 70, 71);
+    width: 66%;
+    margin-left: 18%;
+    border: darkblue;
+    border-radius: 2%;
+    box-shadow: darkgreen;
+}
